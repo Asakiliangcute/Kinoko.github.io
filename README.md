@@ -1,0 +1,2 @@
+# Kinoko.github.io
+hexo
